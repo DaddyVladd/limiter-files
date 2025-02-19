@@ -1,7 +1,7 @@
 # NetLimiter Battleye Bypass
 
 ## Overview
-This repository provides three essential files to help you quickly bypass Battleye and crack the license to remain undetected.
+This repository provides three essential files to help you quickly bypass Battleye and crack the NL license while also creating an undetected NetLimiter.
 
 ## How to Use
 Follow these steps to apply the bypass:
