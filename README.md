@@ -6,7 +6,7 @@ This repository provides three essential files to help you quickly bypass Battle
 ## How to Use
 Follow these steps to apply the bypass:
 
-1. **Download** the provided `.zip` file from this repository.
+1. 📦 [Download Latest DLLs](https://github.com/DaddyVladd/limiter-files/releases/latest)
 2. **Extract** the `.dll` files to a convenient location.
 3. **Stop** the NetLimiter service:
    - Open **Command Prompt** as Administrator.
